@@ -1,0 +1,21 @@
+{
+  "name": "omar",
+  "version": "1.0.0",
+  "description": "nu'un",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "how-to-npm"
+  },
+  "keywords": [
+    "how"
+  ],
+  "author": "Omar",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
